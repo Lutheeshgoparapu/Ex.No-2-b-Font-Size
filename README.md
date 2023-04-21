@@ -124,7 +124,8 @@ public class MainActivity extends AppCompatActivity {
         tools:layout_editor_absoluteX="40dp"
         tools:layout_editor_absoluteY="456dp" />
     </RelativeLayout>
-    ```
+ ```
+  
 ## Output:
 
 ![233550794-2da21af3-89a2-4b01-9146-64ce22ae036b](https://user-images.githubusercontent.com/94154531/233629612-928d2522-d15e-4b78-a9de-585416c56b7b.png)
